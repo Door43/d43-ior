@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ior:home|Door43 (ior)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ior|d43-ior repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ior/archive/master.zip|d43-ior.zip]]
+
+**Recent Changes**
+{{changes>ns = ior}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ior|Ethnologue data]]
+
